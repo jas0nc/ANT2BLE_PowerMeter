@@ -1,0 +1,4 @@
+#Mon May 08 22:13:24 CST 2017
+base.0=C\:\\Users\\JACHAN\\AndroidStudioProject\\ANT+2BLE_PowerMeter\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\JACHAN\\AndroidStudioProject\\ANT+2BLE_PowerMeter\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

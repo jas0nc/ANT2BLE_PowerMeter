@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\JACHAN\AndroidStudioProject\ANT+2BLE_PowerMeter\app\libs\fit_16.00.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="02febf42ad4357bc84b39f5700af95fc64389e2b">
+        <dex dex="C:\Users\JACHAN\AndroidStudioProject\ANT+2BLE_PowerMeter\app\build\intermediates\pre-dexed\release\fit_16.00_fc58340e2aa38deeb745cd89718dcdcf7de70b13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JACHAN\AndroidStudioProject\ANT+2BLE_PowerMeter\app\libs\antpluginlib_3-6-0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcc5fd7af574e447104a5989cf78849209f1ba05">
+        <dex dex="C:\Users\JACHAN\AndroidStudioProject\ANT+2BLE_PowerMeter\app\build\intermediates\pre-dexed\release\antpluginlib_3-6-0_857ac0a6cf315c915115f2b4f7bb75550d4cc478.jar" />
+    </item>
+
+</items>
